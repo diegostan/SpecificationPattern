@@ -1,0 +1,5 @@
+A aplicação requer uma especificação de negocio para pets quem tenham
+
+Idade: deve ser maior que 24 meses
+Sexo: deve ser fêmea
+Tamanho: deve ser grande
